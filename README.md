@@ -1,2 +1,0 @@
-# PROYECTO-PROGRAMACI-N
-Proyecto Banxico
